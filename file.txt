@@ -1,0 +1,2 @@
+Revert is an mechanism where we can revert/rollback the changes to previous commit.
+Revert will create an new commit for every revert performed as the commit is used for recording the changes.
